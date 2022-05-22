@@ -1,0 +1,5 @@
+name: PaperMenuAPI
+version: '${project.version}'
+main: com.cortmnzz.papermenuapi.PaperMenuAPI
+load: STARTUP
+authors: [ Ailakks ]
